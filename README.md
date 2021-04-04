@@ -5,10 +5,10 @@ The business team has given you a CSV containing more than 34,000 organizations 
 
 ## Technologies:
 
-Pandas
-Pathlib
-Tensorflow
-Keras
+Pandas, 
+Pathlib, 
+Tensorflow, 
+Keras, 
 Sklearn
 
 
